@@ -5,4 +5,4 @@ This is a solo project.
 
 ## 1. Project Formulation & Requirements
 
-You can view the detailed project formulation and requirements here .
+You can view the detailed project formulation and requirements here ./ProjectInitiation.md
